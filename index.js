@@ -1,1 +1,1 @@
-console.log("YES")
+console.log("Welcome to Eslint")
