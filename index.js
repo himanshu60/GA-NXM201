@@ -1,2 +1,2 @@
 console.log("Welcome to Eslint")
-// eslint
+// eslint data
